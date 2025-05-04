@@ -1,1 +1,0 @@
-This module allows to select destination packages when moving entire package in picking
