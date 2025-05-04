@@ -1,1 +1,0 @@
-Cetmix [cetmix.com](https://cetmix.com)
