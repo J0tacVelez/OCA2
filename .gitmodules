@@ -1,0 +1,3 @@
+[submodule "CybroAddons"]
+	path = CybroAddons
+	url = https://github.com/CybroOdoo/CybroAddons.git
